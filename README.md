@@ -1,3 +1,3 @@
-New recent Project comming here.
-This is for San Diego Supercomputer Center projects.
+New recent projects code comming here.
+These are for the San Diego Supercomputer Center projects.
 
