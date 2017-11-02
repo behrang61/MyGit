@@ -1,3 +1,3 @@
 New recent projects code comming here.
-These are for the San Diego Supercomputer Center projects.
+This repository is for the UCSD San Diego Supercomputer Center projects.
 
